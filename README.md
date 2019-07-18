@@ -24,12 +24,14 @@
  - Calligraphy
  - Bollywood Movies
  - Books
+ - Cloud (Not an expert but can do little bit - Azure, Firebase, Netlify)
+ - Tech Career*
  
  ## What not to ask?
- - Which font my IDE has
- - How my work desk looks
- - How I have so long hair
- - Why I love icecreams soooo much.
+ - Which font my IDE has?
+ - How my work desk looks?
+ - How I have so long hair?
+ - Why I love icecreams soooo much?
  
  ## How to ask?
  Raise an issue and I will reply you.
