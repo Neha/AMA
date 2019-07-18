@@ -25,6 +25,12 @@
  - Bollywood Movies
  - Books
  
+ ## What not to ask?
+ - Which font my IDE has
+ - How my work desk looks
+ - How I have so long hair
+ - Why I love icecreams soooo much.
+ 
  ## How to ask?
  Raise an issue and I will reply you.
  
