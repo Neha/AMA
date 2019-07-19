@@ -3,7 +3,11 @@
  
 People keep reaching me at different platforms about their doubts, questions, suggestions, asking for mentoring. No matter how hard I try ,I always miss replaying to everone. 
 
-Hence, this repo is the one dedicated place where you can ask me anything* and I will reply you. 
+Hence, this repo is the one dedicated place where you can ask me anything* and I will reply you.  
+
+Do read below whole content before raising question :point_down: 
+
+[READ THE ALREADY ASKED QUESTIONS](https://github.com/Neha/AMA/issues)
  
  ## :loudspeaker: Why I am doing this?
  This will help me and others too by avoiding asking and writing the repitive questions & answers.
@@ -13,11 +17,7 @@ Hence, this repo is the one dedicated place where you can ask me anything* and I
  
  _Questions I won't be replying to: My personal life._
  
- [READ THE ASKED QUESTIONS](https://github.com/Neha/AMA/issues)
- 
- [ASK YOUR QUESTION](https://github.com/Neha/AMA/issues/new)
- 
- __What I can answer about:__
+__What I can answer about:__
  - HTML
  - CSS
  - SCSS
@@ -43,7 +43,9 @@ Hence, this repo is the one dedicated place where you can ask me anything* and I
  - How I have so long hair?
  - Why I love icecreams soooo much?
  
- ## How to ask?
+ ## :question: How to ask?
  Raise an issue and I will reply you.
+ 
+ [ASK YOUR QUESTION](https://github.com/Neha/AMA/issues/new)
  
  ## :heart: Thank you!!
