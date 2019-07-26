@@ -5,6 +5,8 @@ People keep reaching me at different platforms about their doubts, questions, su
 
 Hence, this repo is the one dedicated place where you can ask me anything* and I will reply you.  
 
+PS: Do not close the Issues once it is answered. I want to keep the issues open to let other folks read them.
+
 Do read below whole content before raising question :point_down: 
 
 [READ THE ALREADY ASKED QUESTIONS](https://github.com/Neha/AMA/issues)
