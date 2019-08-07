@@ -1,9 +1,9 @@
 # :four_leaf_clover: AMA - Ask Me Anything !! :book:
  Hello!! My name is Neha Sharma. You probably came to this repo by [Linkedin](https://www.linkedin.com/in/nehha/), Youtube, or [twitter](https://twitter.com/hellonehha). You might know me from [JSLovers](www.jslovers.com) _organizer_, _Tech speaker_, and _UI Developer_. 
  
-People keep reaching me at different platforms about their doubts, questions, suggestions, asking for mentoring. No matter how hard I try ,I always miss replaying to everone. 
+People keep reaching me at different platforms about their doubts, questions, suggestions, asking for mentoring. No matter how hard I try ,I always miss replaying. 
 
-Hence, this repo is the one dedicated place where you can ask me anything* and I will reply you.  
+Hence, this repo is the one dedicated place where you can ask me anything* and I will reply to you.  
 
 PS: Do not close the Issues once it is answered. I want to keep the issues open to let other folks read them.
 
@@ -38,6 +38,8 @@ __What I can answer about:__
  - Books
  - Cloud (Not an expert but can do little bit - Azure, Firebase, Netlify)
  - Tech Career*
+ - Design System
+ - CFP
  
  ## :-1: What not to ask?
  - Which font my IDE has?
